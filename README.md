@@ -1,4 +1,6 @@
 # returnerstagcalculator
-%Tag Calculator for Returners
+%Tag Calculator for Nexon Returners
 
-Unity 2017.3.0f3 with C#
+Select Heroes, apply minimum team composition or %tag values, get team compositions.
+
+Unity 2018.1.6 with C#
